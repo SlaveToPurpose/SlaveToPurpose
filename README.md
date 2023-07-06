@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Google Chrome Extension**
 
-- 🌱 I’m currently learning **JavaScript, Python**
+- 🌱 I’m learning **JavaScript, Python**
 
 - ⚡ Fun fact **I'm a morning person and have the best day when I've woken up early to a relaxed morning routine**
 
