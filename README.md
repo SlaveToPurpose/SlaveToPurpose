@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keziah</h1>
 <h3 align="center">I'm an aspiring full-stack developer from South Africa</h3>
 
-- 🔭 I’m currently working on **Metric to Imperial Converter**
+- 🔭 I’m currently working on **Metric to Imperial Converter** using HTML, CSS and JavaScript 
 
 - 🌱 I’m learning **JavaScript, Python**
 
