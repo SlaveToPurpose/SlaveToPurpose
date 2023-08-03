@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keziah</h1>
 <h3 align="center">I'm an aspiring full-stack developer from South Africa</h3>
 
-- 🔭 I’m currently working on **Selection Calculator** using Python
+- 🔭 I’m currently working on a **Bible Quiz** using C
 
 - 🌱 I’m learning **JavaScript, Python**
 
