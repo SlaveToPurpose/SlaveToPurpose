@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Keziah</h1>
-<h3 align="center">I'm an aspiring full-stack developer from South Africa</h3>
+<h3 align="center">I'm a Salesforce Administrator with dev skils😏</h3>
 
-- 🔭 I’m currently working on an **AirBnB Clone** using Python for backend
-
+- 🔭 I’m currently working on a Salesforce app for my church, to keep track of members
+  
 - 🌱 I’m learning **JavaScript, Python**
 
 - ⚡ Fun fact **I'm a morning person and have the best day when I've woken up early to a relaxed morning routine**
