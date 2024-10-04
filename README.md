@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Keziah</h1>
 <h3 align="center">I'm a Salesforce Administrator with dev skils😏</h3>
 
-- 🔭 I’m currently working on a Salesforce app for my church, to keep track of members
+- 🔭 I’m currently working on a new Non-Profit Cloud implementation with my team at Pinotage
   
-- 🌱 I’m learning **JavaScript, Python**
+- 🌱 I’m learning **APEX**
 
 - ⚡ Fun fact **I'm a morning person and have the best day when I've woken up early to a relaxed morning routine**
 
