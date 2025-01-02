@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keziah</h1>
 <h3 align="center">I'm a Salesforce Administrator with dev skils😏</h3>
 
-- 🔭 I’m currently working on a new Non-Profit Cloud implementation with my team at Pinotage
+- 🔭 I’m currently working on shiny Apex Specialist Badge
   
 - 🌱 I’m learning **APEX**
 
